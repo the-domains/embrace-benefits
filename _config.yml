@@ -1,0 +1,28 @@
+name: Embrace Benefits
+favicon: null
+layout_spectrum: 0.8708184177521616
+typography_spectrum: 0.4313233445864171
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7566441546659917
+  lightness: 0.15863941540010273
+  saturation: 0.8637511017732322
+  rhythmicContrast: 0.1472227624617517
+purpose: []
